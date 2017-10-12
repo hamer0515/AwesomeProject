@@ -11,6 +11,8 @@ import AlignItemsBasics from "./AlignItemsBasics";
 import PizzaTranslator from "./PizzaTranslator";
 import IScrolledDownAndWhatHappenedNextShockedMe from "./IScrolledDownAndWhatHappenedNextShockedMe";
 import FlatListBasics from "./FlatListBasics";
+import SectionListBasics from "./SectionListBasics";
+import FadeInView from './FadeInView';
 
 export {
   HelloWorldPage,
@@ -25,5 +27,7 @@ export {
   AlignItemsBasics,
   PizzaTranslator,
   IScrolledDownAndWhatHappenedNextShockedMe,
-  FlatListBasics
+  FlatListBasics,
+  SectionListBasics,
+  FadeInView
 };

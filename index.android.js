@@ -5,7 +5,9 @@
  */
 
 import React, { Component } from "react";
-import { FlatListBasics as App } from "./rnPages";
+// import { FadeInView as App } from "./rnPages";
 import { AppRegistry } from "react-native";
+
+import { App } from "./Apps/StackNavigatorApp";
 
 AppRegistry.registerComponent("AwesomeProject", () => App);
